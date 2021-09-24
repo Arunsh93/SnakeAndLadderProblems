@@ -1,0 +1,13 @@
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.exe
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.deps.json
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.runtimeconfig.json
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.runtimeconfig.dev.json
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.dll
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\bin\Debug\netcoreapp3.1\NumberDaiesPlayed.pdb
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.AssemblyInfoInputs.cache
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.AssemblyInfo.cs
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.csproj.CoreCompileInputs.cache
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.dll
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.pdb
+E:\ASP.NET\SnakeAndLadderProblems\NumberDaiesPlayed\obj\Debug\netcoreapp3.1\NumberDaiesPlayed.genruntimeconfig.cache
